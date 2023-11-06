@@ -1,0 +1,13 @@
+.nav-button{
+    position: relative;
+    top: -40px;
+    right: 60px;
+}
+.logo-nav{
+    position: relative;
+    top: 1px;
+    left: 60px;
+}
+.second_navbar{
+    margin: 30px;  
+}
